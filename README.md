@@ -36,3 +36,11 @@ The project is tested for:
 - LED operation
 - Serial Monitor output
 - Program compilation
+
+
+## QA Resolution Tracking
+
+The automatic street light project was tested using GitHub Issues.
+Sensor connectivity, light threshold, LED operation, analog pin
+configuration and Serial Monitor output were reviewed during QA.
+All identified issues were documented and resolved.
